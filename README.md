@@ -32,7 +32,7 @@
 Backend (Python + FastF1)
 
 ```
-git clone 
+git clone https://github.com/Vinit-Kshirsagar/data_f1.git
 
 cd backend
 
